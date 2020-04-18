@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ihch.github.io/qr-reader-react/static/css/main.b56b6c51.chunk.css",
-    "main.js": "/ihch.github.io/qr-reader-react/static/js/main.25aa2bdd.chunk.js",
-    "main.js.map": "/ihch.github.io/qr-reader-react/static/js/main.25aa2bdd.chunk.js.map",
-    "runtime-main.js": "/ihch.github.io/qr-reader-react/static/js/runtime-main.aba1229e.js",
-    "runtime-main.js.map": "/ihch.github.io/qr-reader-react/static/js/runtime-main.aba1229e.js.map",
-    "static/js/2.429f186c.chunk.js": "/ihch.github.io/qr-reader-react/static/js/2.429f186c.chunk.js",
-    "static/js/2.429f186c.chunk.js.map": "/ihch.github.io/qr-reader-react/static/js/2.429f186c.chunk.js.map",
-    "index.html": "/ihch.github.io/qr-reader-react/index.html",
-    "precache-manifest.55d258947e0703a492e334b44802c42e.js": "/ihch.github.io/qr-reader-react/precache-manifest.55d258947e0703a492e334b44802c42e.js",
-    "service-worker.js": "/ihch.github.io/qr-reader-react/service-worker.js",
-    "static/css/main.b56b6c51.chunk.css.map": "/ihch.github.io/qr-reader-react/static/css/main.b56b6c51.chunk.css.map",
-    "static/js/2.429f186c.chunk.js.LICENSE.txt": "/ihch.github.io/qr-reader-react/static/js/2.429f186c.chunk.js.LICENSE.txt"
+    "main.css": "/qr-reader-react/static/css/main.b56b6c51.chunk.css",
+    "main.js": "/qr-reader-react/static/js/main.c431925a.chunk.js",
+    "main.js.map": "/qr-reader-react/static/js/main.c431925a.chunk.js.map",
+    "runtime-main.js": "/qr-reader-react/static/js/runtime-main.ee69ebb9.js",
+    "runtime-main.js.map": "/qr-reader-react/static/js/runtime-main.ee69ebb9.js.map",
+    "static/js/2.094101d3.chunk.js": "/qr-reader-react/static/js/2.094101d3.chunk.js",
+    "static/js/2.094101d3.chunk.js.map": "/qr-reader-react/static/js/2.094101d3.chunk.js.map",
+    "index.html": "/qr-reader-react/index.html",
+    "precache-manifest.ed5c0572f19a124c97ca873e9dea83af.js": "/qr-reader-react/precache-manifest.ed5c0572f19a124c97ca873e9dea83af.js",
+    "service-worker.js": "/qr-reader-react/service-worker.js",
+    "static/css/main.b56b6c51.chunk.css.map": "/qr-reader-react/static/css/main.b56b6c51.chunk.css.map",
+    "static/js/2.094101d3.chunk.js.LICENSE.txt": "/qr-reader-react/static/js/2.094101d3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aba1229e.js",
-    "static/js/2.429f186c.chunk.js",
+    "static/js/runtime-main.ee69ebb9.js",
+    "static/js/2.094101d3.chunk.js",
     "static/css/main.b56b6c51.chunk.css",
-    "static/js/main.25aa2bdd.chunk.js"
+    "static/js/main.c431925a.chunk.js"
   ]
 }
