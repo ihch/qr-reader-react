@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import QrReader from 'react-qr-reader'
+import Header from '../components/Header';
 import Result from '../components/Result';
+import Footer from '../components/Footer';
 
 const App: React.FC<{}> = () => {
   const [result, setResult] = useState('')
@@ -8,6 +10,7 @@ const App: React.FC<{}> = () => {
   const handleError = (err: Error) => console.log(err);
   return (
     <div>
+      <Header />
       <QrReader
         delay={300}
         onScan={handleScan}
@@ -15,6 +18,7 @@ const App: React.FC<{}> = () => {
         style={{ width: '100%', height: 'auto' }}
       />
       <Result url={result} />
+      <Footer />
     </div>
   );
 };
