@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import QrReader from 'react-qr-reader'
+import Result from '../components/Result';
 
 const App: React.FC<{}> = () => {
   const [result, setResult] = useState('')
@@ -13,6 +14,7 @@ const App: React.FC<{}> = () => {
         onError={handleError}
         style={{ width: '100%', height: 'auto' }}
       />
+      <Result url={result} />
     </div>
   );
 };
